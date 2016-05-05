@@ -1,0 +1,67 @@
+
+/*
+article, section{
+    border: thin black solid;
+    margin: 10px 20px;
+    padding: 20px 10px;
+}
+*/
+
+/*
+body{
+    font-family: 'Segoe UI', Tahoma, Verdana, Geneva, Tahoma, sans-serif, Verdana, sans-serif;
+    background-color: #506566;
+}
+aside{
+    background-color: #506566;
+    color: #CDB09E;
+    padding: 25px;
+    margin: 5px;
+}
+nav{
+    display:flex;
+}
+nav > aside{
+    flex: 1;
+}
+
+@media (max-width: 500px) {
+    nav{
+        display:block;
+    }
+}
+
+@media print{
+    nav{
+        display: block;
+    }
+    body{
+        background-color:white;
+        font-family: 'Times New Roman', Times, serif;
+    }
+    aside{
+        background-color:white;
+        color:black;
+        padding:10px;
+        margin:5px;
+    }
+}
+*/
+
+/*
+body{
+    font-family: monospace;
+}
+*/
+
+/*
+@font-face{
+    font-family: Caveat;
+    src: url('../fonts/caveat.ttf') format('truetype');
+}
+
+
+body{
+    font-family: Caveat;
+}
+*/
